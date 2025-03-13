@@ -45,19 +45,12 @@ export const projectsData = [
     date: "2024-04-30",
     demoLink: "https://github.com/Aaraav/social-media--frontend.git",
   },
-  {
+   {
     id: 5,
-    name: "Referal boss",
-    description: "Refer your friend",
-    date: "2024-07-12",
-    demoLink: "https://accredian-frontend-task-ashy.vercel.app/",
-  },
-  {
-    id: 6,
-    name: "PatilKaki",
-    description: "Complted in 3 hrs",
-    date: "2024-02-05",
-    demoLink: "https://patilkakiaaraav.netlify.app/",
+    name: "Mystery-Quest",
+    description: "A treasure hunt game that played by 500 students in the university",
+    date: "2024-10-10",
+    demoLink: "https://github.com/Aaraav/Mystery-quest.git",
   },
   
 ];
