@@ -80,7 +80,7 @@ export const BtnList = [
   },
   {
     label: "Resume",
-    link: "https://drive.google.com/file/d/1uatpi-5dnDAS8UjgXDgtBtdSo-HXdU_z/view?usp=sharing",
+    link: "https://drive.google.com/file/d/1UwvaeqmXFQAgr2tRezWWKGbo80yJg0MP/view?usp=sharing",
     icon: "resume",
     newTab: true,
   },
